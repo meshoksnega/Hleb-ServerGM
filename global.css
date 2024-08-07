@@ -1,0 +1,33 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-wiguru-1: "WiGuru 1";
+
+  /* font sizes */
+  --font-size-11xl: 30px;
+  --font-size-5xl: 24px;
+  --font-size-lg: 18px;
+  --font-size-47xl: 66px;
+  --font-size-34xl: 53px;
+  --font-size-21xl: 40px;
+  --font-size-18xl: 37px;
+
+  /* Colors */
+  --color-white: #fff;
+
+  /* Gaps */
+  --gap-xl: 20px;
+  --gap-4xs: 9px;
+  --gap-10xs: 3px;
+
+  /* Paddings */
+  --padding-9xs: 4px;
+
+  /* Border radiuses */
+  --br-27xl: 46px;
+  --br-109xl: 128px;
+}
