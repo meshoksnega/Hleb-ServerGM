@@ -208,10 +208,7 @@
   z-index: 3;
 }
 .wrapper {
-<<<<<<< HEAD
   color: #000;
-=======
->>>>>>> d6ad9d18f869e31cd5246c82e9ae5fbd8154627f
   display: flex;
   flex-direction: column;
   align-items: flex-start;
@@ -817,6 +814,7 @@
   .optimized-server {
     gap: 19px;
   }
+    }
   .h12 {
     font-size: var(--font-size-11xl);
   }
